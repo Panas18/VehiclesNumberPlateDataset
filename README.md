@@ -20,6 +20,6 @@ Image format: ".jpg"</br>
 
 We labeled 2507 of the total images that contains number plate. Each file in 'label' folder contains the bounding box coordinates of the number plate with correspnding name of the images.</br>
 
-##Acknowledgement</br>
+## Acknowledgement
 This dataset was labeled with the help of my  project partner Ashutosh Baral.</br>
 The dataset was taken from the repository [https://github.com/sdevkota007/vehicles-nepal-dataset#vehicles-nepal-dataset]</br>
